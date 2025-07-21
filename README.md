@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m interested in web development, coding, and design.<br>I’m currently learning  Python.<br>I’m looking to collaborate on interactive web projects.<br>How to reach me: shaheershat@gmail.com<br>Pronouns: He/Him<br>Fun fact: I love playing video games and watching movies in my free time!
+I’m interested in web development, coding, and design.<br>I’m currently learning  Python.<br>I’m looking to collaborate on interactive web projects.<br>How to reach me: shaheershat@gmail.com<br>Pronouns: He/Him
 
 
 ## 🌐 Socials:
